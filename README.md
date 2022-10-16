@@ -1,11 +1,6 @@
 # Recipe app
 This recipe app has been implemented during the mobile course
 
-# Members
-*  Ainara Larrañaga
-*  Prabin Dhakal
-*  Thuy Ta
-
 # Project description
 This is an android app where the user can select or type the ingredients that are currently available in the kitchen or fridge so that way it will match them with recipes that have those ingredients. Our project consists of making our MatchRecipe App a fun way to cook while learning new recipes, easy to use and free. Our goal is to make the MatchRecipe App useful and helpful for busy parents, remote workers, new cooks and anyone who is interested in cooking new recipes.
 
